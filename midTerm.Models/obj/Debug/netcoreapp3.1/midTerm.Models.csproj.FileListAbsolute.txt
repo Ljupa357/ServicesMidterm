@@ -1,0 +1,4 @@
+C:\Users\Ljupcho\Desktop\midTerm.Models\bin\Debug\netcoreapp3.1\midTerm.Data.dll
+C:\Users\Ljupcho\Desktop\midTerm.Models\obj\Debug\netcoreapp3.1\midTerm.Models.csprojAssemblyReference.cache
+C:\Users\Ljupcho\Desktop\midTerm.Models\obj\Debug\netcoreapp3.1\midTerm.Models.AssemblyInfoInputs.cache
+C:\Users\Ljupcho\Desktop\midTerm.Models\obj\Debug\netcoreapp3.1\midTerm.Models.AssemblyInfo.cs
